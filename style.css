@@ -1,0 +1,38 @@
+/*
+	Theme name: Dream Theme;
+	Theme uri:https://jacquelinetropp.com;
+	Author:Jacqueline Tropp;
+	Description: My Dream Theme;
+	Version: 0.1 alpha;
+*/
+
+.nav-container {
+	background-color:#ebebe0;
+	height:auto;
+	padding:0px;
+	margin:0px;
+}
+
+#topnav {
+	padding-top:0px;
+	padding-bottom:0px;
+	font-size:15px;
+	color:black;
+	
+}
+
+#primarynav {
+	align-content: center;
+	text-align: center;
+	color:black;
+	font-size:18px;
+}
+
+.headerimage {
+	width:100%;
+	align-content: center;
+}
+
+
+
+
